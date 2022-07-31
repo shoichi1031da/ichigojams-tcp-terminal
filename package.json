@@ -1,0 +1,16 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tcpServer.js",
+  "scripts": {
+    "dev": "nodemon tcpServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
